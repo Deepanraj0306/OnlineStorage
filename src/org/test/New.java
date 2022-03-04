@@ -6,7 +6,14 @@ public class New {
 		
 		System.out.println("Github processing");
 		System.out.println("Github practice");
+		System.out.println("Github processing edited");
+		System.out.println("Github practice edited");
 		System.out.println("Github password");
 		System.out.println("Github practice changes");
+		
+
 	}
 }
+
+
+
